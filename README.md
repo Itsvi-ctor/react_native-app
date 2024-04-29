@@ -7,19 +7,15 @@
 
 ## <a name="features">🔋 Features</a>
 
+👉 **Model Prediction**: Predict health status through backend CNN model.
+
 👉 **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
 
 👉 **Robust Authentication & Authorization System**: Secure email login safeguards user accounts.
 
-👉 **Dynamic Home Screen with Animated Flat List**: Smoothly animated flat list showcases the latest videos for seamless browsing.
-
 👉 **Pull-to-Refresh Functionality**: Users can refresh content with a simple pull gesture for up-to-date information.
 
-👉 **Full-Text Search Capability**: Efficiently search through videos with real-time suggestions and instant results.
-
 👉 **Tab Navigation**: Navigate between sections like Home, Search, and Profile with ease using tab navigation.
-
-👉 **Post Creation Screen for Uploading Media**: Upload video and image posts directly from the app with integrated media selection.
 
 👉 **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
 
